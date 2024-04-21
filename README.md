@@ -1,6 +1,8 @@
 
 
 ####laravel11 excel file handling
+### without redis:
+![изображение](https://github.com/vadimlvov71/laravel11_excel_handling/assets/57807117/fc3853d9-1994-454f-ac0e-b3aa4dc64cdb)
 
 1. empty goods item name
 ![изображение](https://github.com/vadimlvov71/laravel11_excel_handling/assets/57807117/0b7f366d-4b7f-40b5-97a5-08f8f09ee191)
